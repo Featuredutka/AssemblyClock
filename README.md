@@ -1,5 +1,5 @@
 # AssemblyClock
-Coursework made with Proteus simulator and Assembly language.
+Coursework made with Proteus simulator and Assembly language that emulates a clock with an alarm function.
 
 ![alt text](https://github.com/Featuredutka/AssemblyClock/blob/main/Scheme.png)
 
